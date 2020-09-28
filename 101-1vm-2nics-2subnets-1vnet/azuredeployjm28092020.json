@@ -32,7 +32,8 @@
         "description": "Storage Account type for the VM and VM diagnostic storage"
       },
       "allowedValues": [
-        "Standard_LRS"
+        "Standard_LRS",
+        "Standard_GRS"
       ]
     },
     "location": {
