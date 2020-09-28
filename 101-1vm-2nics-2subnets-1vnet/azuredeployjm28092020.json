@@ -56,7 +56,7 @@
     }
   },
   "variables": {
-    "virtualMachineName": "VM-MultiNicJabslab",
+    "virtualMachineName": "DemoVMJabslab",
     "nic1": "nic-1Jabslab",
     "nic2": "nic-2Jabslab",
     "virtualNetworkName": "virtualNetworkJabslab",
