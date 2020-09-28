@@ -12,7 +12,7 @@
         "value": "Standard_D2_v2"
         }, 
         "storageAccountType": {
-        "value": "Premium_LRS"
+        "value": "Standard_LRS"
         },
         "imagesku": {
             "value": "2016-Datacenter" 
